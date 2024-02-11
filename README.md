@@ -8,4 +8,6 @@
 
 Ιpython Notebooks:
 
+[Εισαγωγή στην Python](https://colab.research.google.com/drive/1vIbssn9efv6G2VdvNyhyeVdK26ZioXmD#scrollTo=PCiaYI4CxE8I)
+
 [Διαδραστικοί χάρτες στην python](https://colab.research.google.com/drive/1SMWhChOXn4xKIP8ub6nP95BQr8NRWSve)
