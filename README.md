@@ -6,6 +6,13 @@
 
 Συντονιστής μαθήματος: Αν. Καθ. [Ανδρέας Καλλιώρας](http://mountains.ntua.gr/el/users/kallioras)
 
+Διδάσκοντες:
+Δημήτριος Δερματάς - Καθηγητής
+Κίμων Χατζημπίρος - Ομότιμος Καθηγητής
+Ανδρέας Καλλιώρας - Αναπληρωτής Καθηγητής
+Dr. Κωνσταντίνος Μαρκαντώνης - Εργαστηριακό Διδακτικό Προσωπικό
+
+
 Ιpython Notebooks:
 
 [Εισαγωγή στην Python](https://colab.research.google.com/drive/1vIbssn9efv6G2VdvNyhyeVdK26ZioXmD#scrollTo=PCiaYI4CxE8I)
