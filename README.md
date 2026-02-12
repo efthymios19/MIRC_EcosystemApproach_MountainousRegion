@@ -18,3 +18,5 @@ Dr. Κωνσταντίνος Μαρκαντώνης - Εργαστηριακό �
 [Εισαγωγή στην Python](https://colab.research.google.com/drive/1vIbssn9efv6G2VdvNyhyeVdK26ZioXmD#scrollTo=74-Wo0uGbWC5)
 
 [Διαδραστικοί χάρτες στην python](https://colab.research.google.com/drive/1SMWhChOXn4xKIP8ub6nP95BQr8NRWSve)
+
+[Infiltration experiment](https://colab.research.google.com/drive/1RjtBXJWv0ItaRReZqBgHY7tyfQPPFNof#scrollTo=H8a6lr3lpnBG)
